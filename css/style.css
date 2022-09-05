@@ -43,7 +43,8 @@ footer{
     font-size: 1rem;
     margin-top: 5px;
     margin-left: 0.5vw;
-
+    position:relative;
+    top:95;
     background-color: blanchedalmond;
     color: #000;
     border-radius: 10px;
