@@ -141,7 +141,10 @@ padding: 2vh;
     font-size: 1.5rem;
     text-align: justify;
 }
-
+.footer_logo{
+    width: 65px;
+    height: 65px;
+}
 ul{
     text-align: center;
     background-color: burlywood;
